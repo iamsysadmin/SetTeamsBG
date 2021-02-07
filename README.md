@@ -3,4 +3,4 @@ All files and scripts needed to copy and set background images in Teams for user
 
 More inforamtion how to use the script is on my website:
 
-www.iamsysadmin.eu
+https://www.iamsysadmin.eu/powershell/set-custom-teams-backgrounds-with-powershell/www.iamsysadmin.eu
